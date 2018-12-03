@@ -1004,7 +1004,7 @@
     }
 
     .store-right {
-        margin-bottom: 30%;
+        margin-bottom: 120px;
         left: 50px;
         width: 80%;
     }
@@ -1115,6 +1115,7 @@
         margin-top: 10px;
         line-height: 20px;
             width: 90%;
+                padding-bottom: 15px;
 }
     .avatar2,
     .avatar1 {
@@ -1153,6 +1154,7 @@
     }
 .contact-info p, .contact-addr p{
     font-size: 10px;
+        line-height: 20px;
 }
     .network {
         padding-top: 8px;
@@ -1184,7 +1186,8 @@
     }
 
     .contact-right>h2 {
-        padding-bottom: 10px
+        padding-bottom: 0px;
+        padding-top: 65px;
     }
 
     .contact .col-12 {
